@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <LangVersion>9</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AltV.Net" Version="1.40.4" />
+    <PackageReference Include="AltV.Net.Async" Version="1.40.1" />
+    <PackageReference Include="AltV.Net.Resources.Chat.Api" Version="1.40.0" />
+    <PackageReference Include="MySql.Data" Version="8.0.22" />
+  </ItemGroup>
+
+</Project>
